@@ -1,6 +1,6 @@
 # colorFromHex
 
-A simple extension to UIColor in UIKit which adds a class function that returns a UIColor from the provided hex string. The colours are cached.
+A simple extension written in Swift for UIColor in UIKit which adds a class function that returns a UIColor from the provided hex string. The colours are cached.
 
 ## Usage
 
